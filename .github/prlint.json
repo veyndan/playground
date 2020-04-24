@@ -1,8 +1,8 @@
 {
   "title": [
     {
-      "pattern": "^\[ROD-\d+\] .+$",
-      "message": "Your title needs to be prefixed with a topic"
+      "pattern": ".+",
+      "message": "Your title needs to be of the form \"[ROD-{jira-ticket-no.}] Title\""
     }
   ]
 }
