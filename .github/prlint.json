@@ -1,6 +1,7 @@
 {
   "title": [
     {
+<<<<<<< HEAD
       "pattern": "^(build|ci|docs|feat|fix|perf|refactor|style|test):\\s",
       "message": "Your title needs to be prefixed with a topic"
     }
@@ -48,3 +49,10 @@
   ]
 }
 
+=======
+      "pattern": "^\[ROD-\d+] .+$",
+      "message": "Your title needs to be prefixed with a topic"
+    }
+  ]
+}
+>>>>>>> ae2fcbb... Add support for PRLint
